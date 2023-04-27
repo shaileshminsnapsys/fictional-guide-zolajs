@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "create-zola-site": "^0.1.5"
+  }
+}
